@@ -1,0 +1,75 @@
+{
+  "generated_at": "2026-07-16T10:33:52.551943",
+  "model_used": "claude-sonnet-5",
+  "analysis": {
+    "ai_disclaimer": "This report was drafted by an AI model (Claude) based on UOB Group's Q1 2026 Performance Highlights. It may contain errors or omissions and must be reviewed against the source document before any external use. Not investment advice.",
+    "data_as_of": "1Q2026, published 2026-05-07, source: UOB Group official Investor Relations disclosure",
+    "overall_trend_tag": "resilient balance sheet, income and margin pressure",
+    "summary": "UOB Group reported Total Income of S$3,422 million in 1Q2026, down 6% YoY (from S$3,657 million) but up 4% QoQ, with Net Profit of S$1,437 million (-4% YoY, +2% QoQ). Balance sheet metrics remained expansionary, with Total Assets up 7% YoY to S$574,233 million and Customer Deposits up 6% YoY to S$426,731 million, while capital and liquidity ratios stayed above applicable regulatory minimums (no figure attached).",
+    "key_highlights": [
+      {
+        "metric": "Total Assets",
+        "insight": "Total Assets reached S$574,233 million, up 7% YoY from S$538,009 million, indicating continued balance sheet expansion."
+      },
+      {
+        "metric": "Customer Deposits",
+        "insight": "Customer Deposits rose to S$426,731 million, up 6% YoY from S$401,250 million."
+      },
+      {
+        "metric": "Operating Profit",
+        "insight": "Operating Profit improved 8% QoQ to S$1,899 million (from S$1,761 million), though still down 9% YoY from S$2,097 million."
+      },
+      {
+        "metric": "CET1 Ratio",
+        "insight": "CET1 Ratio stood at 15.3%, up 0.2pt QoQ from 15.1%, reflecting a strengthening capital buffer this quarter."
+      },
+      {
+        "metric": "NPL Ratio",
+        "insight": "NPL Ratio held steady at 1.5% QoQ and improved 0.1pt YoY from 1.6%, with NPA Coverage Ratio rising to 100% (from 97% QoQ, 90% YoY)."
+      },
+      {
+        "metric": "Assets Under Management",
+        "insight": "AUM stood at S$198 billion, up 5% YoY, attributed to wealth management momentum, despite a 1% QoQ dip."
+      }
+    ],
+    "risk_flags": [
+      {
+        "metric": "Total Income",
+        "concern": "Total Income declined 6% YoY to S$3,422 million (from S$3,657 million), exceeding the 5% YoY decline threshold.",
+        "severity": "medium"
+      },
+      {
+        "metric": "Net Fee Income",
+        "concern": "Net Fee Income fell 8% YoY to S$637 million (from S$694 million).",
+        "severity": "medium"
+      },
+      {
+        "metric": "Net Interest Margin",
+        "concern": "NIM compressed 18bps YoY to 1.82% (from 2.00%), pressuring core lending profitability.",
+        "severity": "medium"
+      },
+      {
+        "metric": "Cost-to-Income Ratio",
+        "concern": "Cost-to-Income Ratio improved 1.9pt QoQ to 44.5% but worsened 1.9pt YoY from 42.6%, a QoQ/YoY divergence per the source note.",
+        "severity": "medium"
+      },
+      {
+        "metric": "Credit Cost",
+        "concern": "Credit Cost rose 7bps QoQ to 26bps (from 19bps) even as it improved 9bps YoY (from 35bps), signaling a recent uptick in provisioning.",
+        "severity": "low"
+      },
+      {
+        "metric": "All-Currency LCR",
+        "concern": "LCR fell 3pt QoQ to 144% (from 147%) despite a 1pt YoY improvement, a QoQ/YoY divergence, though it remains above the applicable regulatory minimum (no figure stated).",
+        "severity": "low"
+      }
+    ],
+    "recommendation": {
+      "action": "Recommend Finance leadership review the YoY decline in Total Income (-6%, S$3,422m) and NIM compression (-18bps) alongside the QoQ/YoY divergences in Cost-to-Income Ratio and Credit Cost to determine underlying drivers before this data is used in internal or external communications.",
+      "requires_human_approval": true
+    },
+    "data_gaps_noted": [
+      "Cash Flow Statement: value not disclosed this quarter, as UOB does not publish this statement in 1Q/3Q Trading Updates per SGX Listing Rules; only available in Half Year and Full Year reports."
+    ]
+  }
+}
