@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude-Sonnet%205-D97757?logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Gmail%20%7C%20Drive%20%7C%20Asana-4285F4)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 **An AI agent that drafts a quarterly bank KPI review in minutes instead of hours — with built-in AI-hallucination detection and mandatory human sign-off before anything leaves the building.**
 
@@ -212,9 +211,3 @@ Part of an ongoing portfolio applying AI and data science to banking and financi
 - More banking-focused ML/BI projects: [github.com/angelaadida](https://github.com/angelaadida)
 
 Background: 15+ years in banking operations, transitioning into data science and AI engineering.
-
----
-
-## License
-
-MIT — see [LICENSE](./LICENSE) for details. UOB Group data used under fair-use for educational/portfolio purposes; see [Data Source & Provenance](#data-source--provenance).
