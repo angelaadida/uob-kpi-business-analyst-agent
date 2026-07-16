@@ -210,4 +210,3 @@ Part of an ongoing portfolio applying AI and data science to banking and financi
 - [`bank_loan-default-prediction`](https://github.com/angelaadida/bank_loan-default-prediction) — XGBoost credit risk model (AUC-ROC 0.94), deployed on Streamlit, with a Claude API layer adding natural-language risk explanations
 - More banking-focused ML/BI projects: [github.com/angelaadida](https://github.com/angelaadida)
 
-Background: 15+ years in banking operations, transitioning into data science and AI engineering.
